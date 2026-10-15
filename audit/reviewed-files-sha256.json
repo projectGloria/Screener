@@ -1,0 +1,70 @@
+[
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\background.js",
+    "Hash": "5083AFDD575212818227DEA0B8F75D7A436AEE87F6595328D16FDDBCA906C28A"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\content.js",
+    "Hash": "4836BAAAA1F5CEE0554E91411F6678FEB24E7A746DB1F57745D8E762A4E892AC"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\database.js",
+    "Hash": "DCE527E69F0F905A99BA539ADD85291A68C6A68539637CEDCB60709DA79244CC"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\export.js",
+    "Hash": "6078916226B6DF700F2CE22FC6D3A04CE9A974C621EF2C84C35EF97800E623C5"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\geometry.js",
+    "Hash": "6B9929C70B58512A79E1CEEAC5853BD172F9357ECD0B9DE2CBB773FEEE45AB4D"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\manifest.json",
+    "Hash": "4E93D0DDE48ABA4F0104232809BA56A4786A9B3AD3B2BC6FFACD8C6308014A08"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\popup.html",
+    "Hash": "AB4D9E94EDD7FCB46817ACB7D3F6EA6E376F3C2537C4897C602B47EA1761216A"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\popup.js",
+    "Hash": "47EE057107FCB16AF35148B2B7D4378BEE686764AF5EA8B5A839DC6D132A39AE"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\preview.html",
+    "Hash": "835F45CA8A51DD1CE2EC1C3BB25BE19B7AC9D1FBF2A703259F6A5854418B2F58"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\preview.js",
+    "Hash": "8A91B67465A0F570BAE388BEFFC6012CDA33C0C73DD548F4C3106F6C9C8311A6"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\progress.css",
+    "Hash": "8D1B2B32498F72FDEDAFA33AAB487FAEBDF01BD6BD4BAAF36DE741517141E192"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\styles.css",
+    "Hash": "F8E37778C4877AFDFFB9A84E4BF5E0D14E4F4E0AD13790EC8D58FCA8BAA86A13"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\tests\\capture-sticky.cjs",
+    "Hash": "93541D5D1E3EC2ADEDE3420588076F9224DD3FF5F31BB8F40E44C4A8747985A0"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\tests\\exports.cjs",
+    "Hash": "43CD9B706C02D09683988386F72CCA99AAFC46081395313D3237986802A0B3EC"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\icons\\16.png",
+    "Hash": "95F35ADDF5C8556F6198D9DFD9FE33E38E0B213518CA03E02FAA5BE6E122E30D"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\icons\\48.png",
+    "Hash": "F05932297F814D15CA0536D90FA98B4F86AEA4A323EBCBF6F07EEA4DE76B03B8"
+  },
+  {
+    "Path": "C:\\Users\\Nihil\\Desktop\\projectGloria\\screener\\icons\\128.png",
+    "Hash": "E12FAB983EED1ACA08A4FF6C357F43FF434AD1525482ED6D5871B2972B827278"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Screener — Page screenshots",
+  "version": "1.2.0",
+  "description": "Capture full pages. Preview and download locally as PNG, JPG, WebP, or PDF.",
+  "minimum_chrome_version": "109",
+  "permissions": ["activeTab", "scripting", "webNavigation"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "action": { "default_popup": "popup.html", "default_title": "Screener" },
+  "icons": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" }
+}

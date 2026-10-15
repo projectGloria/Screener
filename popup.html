@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Screener</title><link rel="stylesheet" href="styles.css"></head>
+<body class="popup">
+  <link rel="stylesheet" href="progress.css">
+  <header class="brand"><span class="logo">S</span><span>Screener<span class="tag">A little clarity. In one capture.</span></span></header>
+  <main><div class="eyebrow">MAKE IT A SCREENSHOT</div>
+    <button class="capture primary" data-mode="full"><span class="symbol">↕</span><span><strong>Full page</strong><small>The whole story, top to bottom</small></span><span class="arrow">↗</span></button>
+    <div class="progress-wrap" id="progress-wrap" hidden><div class="progress-meta"><span id="progress-label">Preparing…</span><span id="progress-percent">0%</span></div><div class="progress-track"><div id="progress-bar"></div></div></div><p id="status" role="status" aria-live="polite">Ready when you are.</p><button id="cancel" class="secondary" hidden>Cancel capture</button>
+  </main><footer><span class="dot"></span> Only on your device <span id="version">Version</span></footer>
+  <script type="module" src="popup.js"></script>
+</body></html>
