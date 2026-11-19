@@ -237,6 +237,21 @@ node audit\verify.cjs
 
 ---
 
+## 🚀 How to Release
+
+1. Update `"version"` in `manifest.json` and commit your changes.
+2. Create and push a matching `v*` tag:
+   ```bash
+   git tag v1.2.0 && git push --tags
+   ```
+3. GitHub Actions (`.github/workflows/build-installers.yml`) automatically packages the runtime extension files into `screener-<version>-chrome.zip`, uploads it as the **`installers`** workflow artifact, and publishes a GitHub Release with the archive attached.
+
+**Where to download:**
+- **Tagged releases:** Download `screener-<version>-chrome.zip` from the repository's [Releases](https://github.com/projectGloria/Screener/releases) page, unzip it, and load it via **Load unpacked** in `chrome://extensions`.
+- **Manual builds:** Trigger **Build Extension Package** from the **Actions** tab (`workflow_dispatch`) and download the **`installers`** artifact from the workflow run.
+
+---
+
 ## 🛡️ Privacy Guarantee
 
 Screener was built from day one on an uncompromising privacy foundation:
